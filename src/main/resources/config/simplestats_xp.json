@@ -1,0 +1,14 @@
+{
+  "xp_values": {
+    "minecraft:zombie": 10,
+    "minecraft:skeleton": 15,
+    "minecraft:creeper": 25,
+    "minecraft:spider": 12,
+    "minecraft:enderman": 20,
+    "minecraft:witch": 30,
+    "minecraft:slime": 8,
+    "minecraft:blaze": 22,
+    "minecraft:ghast": 35,
+    "minecraft:ender_dragon": 1000
+  }
+} 

@@ -1,0 +1,20 @@
+{
+  "perks": [
+    {
+      "id": "speed_boost",
+      "name": "Speed Boost",
+      "icon": "minecraft:item/diamond_boots",
+      "maxLevel": 3,
+      "xpCost": 10,
+      "command": "effect give @p minecraft:speed 60 {level} true"
+    },
+    {
+      "id": "health_boost",
+      "name": "Health Boost",
+      "icon": "minecraft:item/golden_apple",
+      "maxLevel": 3,
+      "xpCost": 15,
+      "command": "effect give @p minecraft:health_boost 60 {level} true"
+    }
+  ]
+} 
