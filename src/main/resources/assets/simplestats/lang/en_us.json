@@ -1,5 +1,17 @@
 {
-  "itemGroup.simplestats": "Example Mod Tab",
-  "block.simplestats.example_block": "Example Block",
-  "item.simplestats.example_item": "Example Item"
+  "key.simplestats.open_stats": "Open Stats Menu",
+  "item.simplestats.worn_notebook": "Worn Notebook",
+  "item.simplestats.filagree_texts": "Filagree Texts",
+  "screen.simplestate.error.maxlevel": "Perk is already Max Level",
+  "screen.simplestate.error.tooexpensive": "Not enough Points",
+  "screen.simplestate.error.minlevel": "Perk is already unleveled",
+  "screen.simplestats.error.no_perks": "There's no Perks",
+  "screen.simplestats.error.null_perks": "Perk list is Null. Please make an issue on GitHub",
+  "screen.simplestats.title": "",
+  "gui.simplestats.error.useless": "There's nothing here...",
+  "gui.simplestats.notebook.hint": "Using this notebook will give you ",
+  "gui.simplestats.notebook.flavor": "A small notebook. It's pages are torn.",
+  "gui.simplestats.filagree.flavor": "A delicate manuscript. Its edges adorned with gold.",
+  "gui.simplestats.notebook.use": "You gained ",
+  "sounds.simplestats.book_use": "Book Ignites"
 }

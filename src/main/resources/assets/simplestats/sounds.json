@@ -1,0 +1,8 @@
+{
+  "book_use": {
+    "subtitle": "sounds.simplestats.book_use",
+    "sounds": [
+      "simplestats:book_use"
+    ]
+  }
+}
